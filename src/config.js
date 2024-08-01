@@ -1,5 +1,5 @@
 const dev = {
-    API_URL: "http://localhost:5000"
+    API_URL: "https://portal.decodesales.in/api"
 }
 
 const prod = {
